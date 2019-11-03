@@ -1,0 +1,20 @@
+nav a{
+    margin-right: 15px;
+    color: white;
+}
+
+nav a:hover{
+    color: #3498db;
+    font-size: 20px;
+}
+#test1{
+    background-color: hotpink;
+}
+#test2{
+    background-color: lawngreen;
+}
+
+#social{
+    list-style-type: none;
+   
+}
