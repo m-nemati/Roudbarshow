@@ -1,3 +1,7 @@
+body{
+    font-family: iransans;
+}
+/********* Menu Styel***************/
 nav a{
     margin-right: 15px;
     color: white;
@@ -7,6 +11,21 @@ nav a:hover{
     color: #3498db;
     font-size: 20px;
 }
+/**** Haeder **************/
+#header{
+    
+    height: 200px;
+    background-image: url("../images/header.png");
+    background-size: cover;
+
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+}
+
+/************* Footer  ********************/
 #test1{
     background-color: hotpink;
 }
@@ -17,4 +36,7 @@ nav a:hover{
 #social{
     list-style-type: none;
    
+}
+footer ul li{
+    display: inline;
 }
